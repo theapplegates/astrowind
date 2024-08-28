@@ -8,6 +8,7 @@ tags:
   - tools
   - resources
 ---
+![The test](src/assets/images/Mac.jpg)
 
 ## Magna nunc senectus torquent per fusce sapien ligula tempus cra
 
